@@ -1,1 +1,1 @@
-# gha-input-secrets-test
+# gha-inputs-lab
